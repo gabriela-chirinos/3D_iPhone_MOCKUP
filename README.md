@@ -84,10 +84,15 @@ A visually immersive 3D mocksite inspired by Apple's iPhone 15 Pro launch page. 
 
 ## ✨ Author
 
-Created with passion by [Gabriela] ❤️
+Coded with love [Gabriela] ❤️
 
 Mentored by Cody 🤖 a.k.a the world's greatest code sensei 🧙‍♂️
 
+Inspired by:  YT: @javascriptmastery
+
+React | Beginner Three.js & GSAP Tutorial
+
+ https://github.com/adrianhajdin/iphone
 ---
 
 ## 📖 License
