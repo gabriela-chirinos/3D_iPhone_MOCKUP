@@ -81,6 +81,15 @@ margin: .5em 1.5em;
   margin: .7em 0px;
 }
 
+#core {
+  margin: 1.2em 0px;
+}
+
+#AAP {
+  margin: 1.2em 0px;
+
+}
+
 
 /* Canvas Interaction */
 canvas {
